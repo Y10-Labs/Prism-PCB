@@ -1,4 +1,4 @@
-# Gaming Console PCB - Technical Documentation
+# PISM Gaming console - Technical Documentation
 
 ## Overview
 This document provides essential information about the gaming console PCB, an 8-layer board featuring a Xilinx Zynq SoC and various peripherals for a complete gaming system.
